@@ -14,12 +14,12 @@ Mod User Hotkeys:
 [F6]: Toggle WWMI
 [F10]: Reload WWMI and Save mods settings
 [Alt]+[F12]: Toggle 0.6.X Compatibility Mode
+[Ctrl]+[Alt]+[F10]: Reset mods settings and Reload
 
 Mod Developer Hotkeys:
 [F9]: Disable WWMI while held
 [Ctrl]+[F9]: Toggle Perfomance Monitor
 [Ctrl]+[F12]: Toggle Hunting Mode Guide
-Numpad [0]: Toggle Hunting Mode (green text)
 
 XXMI Launcher:
 You may find handful of useful tweaks in launcher Settings!
