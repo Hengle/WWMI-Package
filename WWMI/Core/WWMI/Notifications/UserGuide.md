@@ -12,9 +12,9 @@ Mod Hot Load (without game restart):
 Mod User Hotkeys:
 [F12]: Toggle this User Guide
 [F6]: Toggle WWMI
-[F10]: Reload WWMI and Save mods settings
+[F10]: Reload WWMI and Save Mod Settings
 [Alt]+[F12]: Toggle 0.6.X Compatibility Mode
-[Ctrl]+[Alt]+[F10]: Reset mods settings and Reload
+[Ctrl]+[Alt]+[F10]: Reset Mod Settings and Reload
 
 Mod Developer Hotkeys:
 [F9]: Disable WWMI while held
@@ -22,9 +22,9 @@ Mod Developer Hotkeys:
 [Ctrl]+[F12]: Toggle Hunting Mode Guide
 
 XXMI Launcher:
-You may find handful of useful tweaks in launcher Settings!
+Explore handy features and tweaks in Settings for best results!
 
-You can find more mods at:
+Check out the latest creations and community support at:
 https://gamebanana.com/games/20357
 https://discord.com/invite/agmg
 

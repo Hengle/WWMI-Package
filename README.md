@@ -58,8 +58,9 @@ To properly load newly installed mod without restarting the game:
 
 - **[F12]**: Toggle User Guide
 - **[F6]**: Toggle WWMI dependant mods
-- **[F10]**: Reload WWMI and save mods settings
+- **[F10]**: Reload WWMI and Save Mod Settings
 - **[Alt]+[F12]**: Toggle 0.6.X Compatibility Mode
+- **[Ctrl]+[Alt]+[F10]**: Reset Mod Settings and Reload
 
 ## Mod Development
 To get into mod creation refer to the **WWMI Tools** and its [Modder Guide](https://github.com/SpectrumQT/WWMI-TOOLS/blob/main/guides/modder_guide.md):
@@ -71,11 +72,12 @@ To get into mod creation refer to the **WWMI Tools** and its [Modder Guide](http
 - **[F9]**: Disable WWMI while held
 - **[Ctrl]+[F9]**: Toggle Perfomance Monitor
 - **[Ctrl]+[F12]**: Toggle Hunting Mode Guide
-- **Numpad [0]**: Toggle Hunting Mode (green text)
+- **Numpad [0]**: Toggle Hunting Mode (green text, make sure to **Enable Hunting** in **XXMI Launcher > Settings > WWMI** )
 
 ## Resources
 
 - [WWMI GitHub (you're here)] ([Mirror: Gamebanana](https://gamebanana.com/tools/17252))
+- [XXMI Launcher GitHub](https://github.com/SpectrumQT/XXMI-Launcher)
 - [WWMI Tools GitHub](https://github.com/SpectrumQT/WWMI-Tools) ([Mirror: Gamebanana](https://gamebanana.com/tools/17289))
 - [WWMI Assets](https://github.com/SpectrumQT/WWMI-Assets)
 - [Wuthering Waves Mods - Gamebanana](https://gamebanana.com/games/20357)
